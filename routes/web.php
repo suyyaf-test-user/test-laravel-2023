@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    echo "Hello! Welcome to 2023-3, today's time is " . date("h:i:sa") . "(UTC) and the date is " . date("d-m-Y") . ". Also not to forgot, it is a " . date("l") . ".";
+    echo "Hello! Welcome to 2023-4, today's time is " . date("h:i:sa") . "(UTC) and the date is " . date("d-m-Y") . ". Also not to forgot, it is a " . date("l") . ".";
 });
